@@ -1,4 +1,4 @@
 const Sample = () => {
-  return <div>Sample Routing Page</div>
+  return <div></div>
 }
 export default Sample
